@@ -1,0 +1,14 @@
+C:\Temp4\SR-DT-Cred-Test\Synthetic\Synthetic\obj\Debug\Synthetic.csprojResolveAssemblyReference.cache
+C:\Temp4\SR-DT-Cred-Test\Synthetic\Synthetic\obj\Debug\Synthetic.csproj.CoreCompileInputs.cache
+C:\Temp4\SR-DT-Cred-Test\Synthetic\Synthetic\bin\Debug\Synthetic.dll.config
+C:\Temp4\SR-DT-Cred-Test\Synthetic\Synthetic\bin\Debug\Synthetic.dll
+C:\Temp4\SR-DT-Cred-Test\Synthetic\Synthetic\bin\Debug\Synthetic.pdb
+C:\Temp4\SR-DT-Cred-Test\Synthetic\Synthetic\bin\Debug\MS.IT.PhoneAuth.PFClient.dll
+C:\Temp4\SR-DT-Cred-Test\Synthetic\Synthetic\bin\Debug\TestCommon.dll
+C:\Temp4\SR-DT-Cred-Test\Synthetic\Synthetic\bin\Debug\TestLog.dll
+C:\Temp4\SR-DT-Cred-Test\Synthetic\Synthetic\bin\Debug\TestCommon.pdb
+C:\Temp4\SR-DT-Cred-Test\Synthetic\Synthetic\bin\Debug\TestCommon.dll.config
+C:\Temp4\SR-DT-Cred-Test\Synthetic\Synthetic\bin\Debug\TestLog.pdb
+C:\Temp4\SR-DT-Cred-Test\Synthetic\Synthetic\obj\Debug\Synthetic.csproj.CopyComplete
+C:\Temp4\SR-DT-Cred-Test\Synthetic\Synthetic\obj\Debug\Synthetic.dll
+C:\Temp4\SR-DT-Cred-Test\Synthetic\Synthetic\obj\Debug\Synthetic.pdb

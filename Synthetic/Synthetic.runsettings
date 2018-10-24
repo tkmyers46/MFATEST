@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+  <TestRunParameters>
+    <Parameter name="phoneFactorSdkUrl" value="https://pfa-uat-001.redmond.corp.microsoft.com/multifactorauthwebservicesdk/PfWsSdk.asmx" />
+    <Parameter name="phoneFactorSdkCertificateThumbprint" value="79896b17a26c2e37b319754c6778ee7ee23868cb" />
+    <Parameter name="clientCertificateFilePath" value="" />
+    <Parameter name="clientCertificateThumbprint" value="78d3d183a4b707ed210313e61274b06a07247045" />
+    <Parameter name="clientCertificatePassword" value="" />
+    <Parameter name="" value="" />
+  </TestRunParameters>
+</RunSettings>
