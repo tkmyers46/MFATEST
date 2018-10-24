@@ -1,0 +1,6 @@
+C:\Temp4\SR-DT-Cred-Test\Synthetic\PfAws\bin\Debug\PfAws.dll.config
+C:\Temp4\SR-DT-Cred-Test\Synthetic\PfAws\bin\Debug\PfAws.dll
+C:\Temp4\SR-DT-Cred-Test\Synthetic\PfAws\bin\Debug\PfAws.pdb
+C:\Temp4\SR-DT-Cred-Test\Synthetic\PfAws\obj\Debug\PfAws.csproj.CoreCompileInputs.cache
+C:\Temp4\SR-DT-Cred-Test\Synthetic\PfAws\obj\Debug\PfAws.dll
+C:\Temp4\SR-DT-Cred-Test\Synthetic\PfAws\obj\Debug\PfAws.pdb

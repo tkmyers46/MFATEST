@@ -1,0 +1,11 @@
+C:\Temp4\SR-DT-Cred-Test\Synthetic\ServiceTests\obj\Debug\ServiceTests.csprojResolveAssemblyReference.cache
+C:\Temp4\SR-DT-Cred-Test\Synthetic\ServiceTests\obj\Debug\ServiceTests.csproj.CoreCompileInputs.cache
+C:\Temp4\SR-DT-Cred-Test\Synthetic\ServiceTests\bin\Debug\ServiceTests.dll
+C:\Temp4\SR-DT-Cred-Test\Synthetic\ServiceTests\bin\Debug\ServiceTests.pdb
+C:\Temp4\SR-DT-Cred-Test\Synthetic\ServiceTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Temp4\SR-DT-Cred-Test\Synthetic\ServiceTests\bin\Debug\TestCommon.dll
+C:\Temp4\SR-DT-Cred-Test\Synthetic\ServiceTests\bin\Debug\TestCommon.pdb
+C:\Temp4\SR-DT-Cred-Test\Synthetic\ServiceTests\bin\Debug\TestCommon.dll.config
+C:\Temp4\SR-DT-Cred-Test\Synthetic\ServiceTests\obj\Debug\ServiceTests.csproj.CopyComplete
+C:\Temp4\SR-DT-Cred-Test\Synthetic\ServiceTests\obj\Debug\ServiceTests.dll
+C:\Temp4\SR-DT-Cred-Test\Synthetic\ServiceTests\obj\Debug\ServiceTests.pdb
