@@ -1,0 +1,14 @@
+C:\Temp4\SR-DT-Cred-Test\Synthetic\PfaAgentTest\obj\Debug\PfaAgentTest.csprojResolveAssemblyReference.cache
+C:\Temp4\SR-DT-Cred-Test\Synthetic\PfaAgentTest\obj\Debug\PfaAgentTest.csproj.CoreCompileInputs.cache
+C:\Temp4\SR-DT-Cred-Test\Synthetic\PfaAgentTest\bin\Debug\PfaAgentTest.exe.config
+C:\Temp4\SR-DT-Cred-Test\Synthetic\PfaAgentTest\bin\Debug\PfaAgentTest.exe
+C:\Temp4\SR-DT-Cred-Test\Synthetic\PfaAgentTest\bin\Debug\PfaAgentTest.pdb
+C:\Temp4\SR-DT-Cred-Test\Synthetic\PfaAgentTest\bin\Debug\MS.IT.PhoneAuth.PFClient.dll
+C:\Temp4\SR-DT-Cred-Test\Synthetic\PfaAgentTest\bin\Debug\TestCommon.dll
+C:\Temp4\SR-DT-Cred-Test\Synthetic\PfaAgentTest\bin\Debug\TestLog.dll
+C:\Temp4\SR-DT-Cred-Test\Synthetic\PfaAgentTest\bin\Debug\TestCommon.pdb
+C:\Temp4\SR-DT-Cred-Test\Synthetic\PfaAgentTest\bin\Debug\TestCommon.dll.config
+C:\Temp4\SR-DT-Cred-Test\Synthetic\PfaAgentTest\bin\Debug\TestLog.pdb
+C:\Temp4\SR-DT-Cred-Test\Synthetic\PfaAgentTest\obj\Debug\PfaAgentTest.csproj.CopyComplete
+C:\Temp4\SR-DT-Cred-Test\Synthetic\PfaAgentTest\obj\Debug\PfaAgentTest.exe
+C:\Temp4\SR-DT-Cred-Test\Synthetic\PfaAgentTest\obj\Debug\PfaAgentTest.pdb

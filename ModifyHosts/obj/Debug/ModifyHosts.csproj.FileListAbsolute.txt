@@ -1,0 +1,13 @@
+C:\Temp4\SR-DT-Cred-Test\Synthetic\ModifyHosts\obj\Debug\ModifyHosts.csprojResolveAssemblyReference.cache
+C:\Temp4\SR-DT-Cred-Test\Synthetic\ModifyHosts\obj\Debug\ModifyHosts.csproj.CoreCompileInputs.cache
+C:\Temp4\SR-DT-Cred-Test\Synthetic\ModifyHosts\bin\Debug\ModifyHosts.exe.config
+C:\Temp4\SR-DT-Cred-Test\Synthetic\ModifyHosts\bin\Debug\ModifyHosts.exe
+C:\Temp4\SR-DT-Cred-Test\Synthetic\ModifyHosts\bin\Debug\ModifyHosts.pdb
+C:\Temp4\SR-DT-Cred-Test\Synthetic\ModifyHosts\bin\Debug\TestCommon.dll
+C:\Temp4\SR-DT-Cred-Test\Synthetic\ModifyHosts\bin\Debug\TestLog.dll
+C:\Temp4\SR-DT-Cred-Test\Synthetic\ModifyHosts\bin\Debug\TestCommon.pdb
+C:\Temp4\SR-DT-Cred-Test\Synthetic\ModifyHosts\bin\Debug\TestCommon.dll.config
+C:\Temp4\SR-DT-Cred-Test\Synthetic\ModifyHosts\bin\Debug\TestLog.pdb
+C:\Temp4\SR-DT-Cred-Test\Synthetic\ModifyHosts\obj\Debug\ModifyHosts.csproj.CopyComplete
+C:\Temp4\SR-DT-Cred-Test\Synthetic\ModifyHosts\obj\Debug\ModifyHosts.exe
+C:\Temp4\SR-DT-Cred-Test\Synthetic\ModifyHosts\obj\Debug\ModifyHosts.pdb
