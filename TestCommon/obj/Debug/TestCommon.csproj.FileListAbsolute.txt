@@ -1,0 +1,6 @@
+C:\Temp4\SR-DT-Cred-Test\Synthetic\TestCommon\obj\Debug\TestCommon.csproj.CoreCompileInputs.cache
+C:\Temp4\SR-DT-Cred-Test\Synthetic\TestCommon\bin\Debug\TestCommon.dll.config
+C:\Temp4\SR-DT-Cred-Test\Synthetic\TestCommon\bin\Debug\TestCommon.dll
+C:\Temp4\SR-DT-Cred-Test\Synthetic\TestCommon\bin\Debug\TestCommon.pdb
+C:\Temp4\SR-DT-Cred-Test\Synthetic\TestCommon\obj\Debug\TestCommon.dll
+C:\Temp4\SR-DT-Cred-Test\Synthetic\TestCommon\obj\Debug\TestCommon.pdb

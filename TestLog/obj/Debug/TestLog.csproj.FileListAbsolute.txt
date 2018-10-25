@@ -1,0 +1,5 @@
+C:\Temp4\SR-DT-Cred-Test\Synthetic\TestLog\bin\Debug\TestLog.dll
+C:\Temp4\SR-DT-Cred-Test\Synthetic\TestLog\bin\Debug\TestLog.pdb
+C:\Temp4\SR-DT-Cred-Test\Synthetic\TestLog\obj\Debug\TestLog.csproj.CoreCompileInputs.cache
+C:\Temp4\SR-DT-Cred-Test\Synthetic\TestLog\obj\Debug\TestLog.dll
+C:\Temp4\SR-DT-Cred-Test\Synthetic\TestLog\obj\Debug\TestLog.pdb
